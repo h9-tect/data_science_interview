@@ -12,3 +12,6 @@ Finally, network analysis is used to identify the relationships between the ques
 
 
 the data was scraped from [here](https://github.com/alexeygrigorev/data-science-interviews)
+
+
+if you want to see the [topic modeling](https://rawcdn.githack.com/h9-tect/data_science_interview/53b71a88a53cecc074cf9e397ed1e6f5f21f0c79/lda_visualization.html#topic=0&lambda=1&term=)
